@@ -1,1 +1,1 @@
-# opencode-desktop-betas
+# OpenCode Beta Releases
