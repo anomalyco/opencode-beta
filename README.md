@@ -2,14 +2,14 @@
 
 ### Download
 
-[macOS (Apple Silicon)](https://github.com/anomalyco/opencode-beta/releases/download/v0.0.0-beta-202604162232/opencode-electron-mac-arm64.dmg)
+[macOS (Apple Silicon)](https://opencode.ai/download/beta/darwin-aarch64-dmg)
 
-[macOS (Intel)](https://github.com/anomalyco/opencode-beta/releases/download/v0.0.0-beta-202604162232/opencode-electron-mac-x64.dmg)
+[macOS (Intel)](https://opencode.ai/download/beta/darwin-x64-dmg)
 
-[Windows (x86)](https://github.com/anomalyco/opencode-beta/releases/download/v0.0.0-beta-202604162232/opencode-electron-win-x64.exe)
+[Windows (x86)](https://opencode.ai/download/beta/windows-x64-nsis)
 
-[Linux (AppImage)](https://github.com/anomalyco/opencode-beta/releases/download/v0.0.0-beta-202604162232/opencode-electron-linux-x86_64.AppImage)
+[Linux (AppImage)](https://opencode.ai/download/beta/linux-x64-appimage)
 
-[Linux (deb)](https://github.com/anomalyco/opencode-beta/releases/download/v0.0.0-beta-202604162232/opencode-electron-linux-amd64.deb)
+[Linux (deb)](https://opencode.ai/download/beta/linux-x64-deb)
 
-[Linux (rpm)](https://github.com/anomalyco/opencode-beta/releases/download/v0.0.0-beta-202604162232/opencode-electron-linux-x86_64.rpm)
+[Linux (rpm)](https://opencode.ai/download/beta/linux-x64-rpm)
