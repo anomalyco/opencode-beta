@@ -1,6 +1,6 @@
 # OpenCode Beta Beta Releases
 
-### Download
+### Desktop Downloads
 
 [macOS (Apple Silicon)](https://opencode.ai/download/beta/darwin-aarch64-dmg)
 
