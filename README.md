@@ -1,4 +1,4 @@
-# OpenCode Beta Beta Releases
+# OpenCode Beta Releases
 
 ### Desktop Downloads
 
